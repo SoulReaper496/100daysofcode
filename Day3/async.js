@@ -58,6 +58,7 @@ setTimeout(()=>{
        call_placement();
 }, 2000 );
 
+
 }
 //placement of icecream
 let placement = ()=>{
